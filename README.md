@@ -1,5 +1,7 @@
 # SilentKernel
 
+![alt text](docs/showcase.png)
+
 minimal x86 kernel written in C. boots from an ISO.
 
 ## building
